@@ -1,5 +1,7 @@
 # docker-scratch-hello
 
+[![Build Status](https://travis-ci.org/kt3k/docker-scratch-hello.svg?branch=master)](https://travis-ci.org/kt3k/docker-scratch-hello)
+
 > Say hello from scratch container
 
 The result container size is 14.2kB.
